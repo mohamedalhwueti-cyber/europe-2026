@@ -1,0 +1,1 @@
+Upload/replace manifest.webmanifest and sw.js in repository root, and add icon-192.png, icon-512.png, maskable-512.png. Keep index.html and app.js.
